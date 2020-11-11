@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            This is secondary commit sample git app.
+            This is final commit sample git app.
         </div>
     </form>
 </body>
